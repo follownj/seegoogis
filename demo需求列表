@@ -1,0 +1,7 @@
+1. 放大、缩小、拉框放大、拉框缩小、截图、打印、全屏
+2. mapControl事件响应，包括MouseClick、MouseDoubleClick、拖拽等
+3. Geometry事件响应，包括MouseClick、MouseDoubleClick、MouseUp、MouseDown、MouseOver。
+4. 单击获取指定点经纬度
+5. MenuItem使用示例
+6. 使用DynamicLayer进行数据查询、展示
+7. 轨迹展示，最好能有个完整的效果，包括：多条轨迹同时播放、可以控制每条轨迹暂停(开始)、轨迹列表。
